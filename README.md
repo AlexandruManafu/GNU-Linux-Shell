@@ -12,7 +12,6 @@ For compilation include the flag:
 
 for example:
 gcc shell.c -lreadline -o bin
-
 ./bin
 
 When running the application you can input the help command to get more info.
